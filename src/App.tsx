@@ -19,7 +19,7 @@ import {
 import logoPV from "@/assets/logo-pv.png";
 import heroCover from "@/assets/hero-cover.png";
 
-const CTA_URL = "https://form.respondi.app/MVCSCd6D";
+const CTA_URL = "https://form.respondi.app/u7wFtlqp";
 const CTA_LABEL = "AGENDAR DIAGNÓSTICO";
 
 function CtaButton({ className = "" }: { className?: string }) {
